@@ -1,3 +1,23 @@
+h1 {
+    color: blue;
+}
+
+h2 {
+    color: saddlebrown;
+}
+
+ul {
+    color: pink;
+}
+
+h3 {
+    color: saddlebrown;
+}
+
+.special {
+    color: red
+}
+
 p {
-    background-color: red;
+    color: saddlebrown;
 }
